@@ -22,7 +22,8 @@
 #endif
 
 #include <Adafruit_LIS3MDL.h>
-#include <Wire.h>
+#include <i2c_driver_wire.h>
+//#include <Wire.h>
 
 /**************************************************************************/
 /*!

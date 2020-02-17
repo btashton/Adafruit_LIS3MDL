@@ -20,7 +20,8 @@
 #include <Adafruit_I2CDevice.h>
 #include <Adafruit_SPIDevice.h>
 #include <Adafruit_Sensor.h>
-#include <Wire.h>
+//#include <Wire.h>
+#include <i2c_driver_wire.h>
 
 /*=========================================================================
 I2C ADDRESS/BITS
